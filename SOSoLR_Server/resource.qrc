@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/db">
+        <file>survival.db</file>
+    </qresource>
+</RCC>
